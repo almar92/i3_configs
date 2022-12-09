@@ -9,7 +9,7 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
-#This config file has been heavily edited for plasma compatibility on kubuntu 20.04.5 and personal workflow preferences
+# This config file has been heavily edited for plasma compatibility on kubuntu 20.04.5 and personal workflow preferences
 # on my laptop's and home keyboards both the ideal Mod key turned out to be, position wise, CTRL
 # this led to some awkward keybindings to not make it in conflict with other software,
 # i.e. fullscreen has been mapped as "Ctrl+Alt+f" because otherwise search functions wouldn't work
