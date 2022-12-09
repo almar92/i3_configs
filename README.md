@@ -1,6 +1,6 @@
 # I3wm and picom configs
 
-Here hare my config files for [i3wm](https://i3wm.org/)  and [picom](https://github.com/yshui/picom) that i use on my two machines.   
+Here are my config files for [i3wm](https://i3wm.org/)  and [picom](https://github.com/yshui/picom) that i use on my two machines.   
 I use the main brach of picom, and the [i3-gaps](https://github.com/Airblader/i3) fork, which at the moment of writing is planned to be (but not yet) merged into i3wm with the release of the 4.22 version.
 
 ## I3wm+Plasma
