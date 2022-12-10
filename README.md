@@ -19,7 +19,7 @@ and for bug patching, both made by me (a colossal effort, i know)
 1. `nitrolol.sh` to fix nitrogen bugging on dual monitor setup
 2. `plasmalol.sh` to fix plasma bugging out on startup, as better explained in the config
 
-(yeah, the names are kinda on the nose)
+(yeah, the names are really on the nose, but i was kind of irritated at those bugs )
 
 ## I3wm
 
