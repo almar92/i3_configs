@@ -9,7 +9,7 @@ I use this setup on Ubuntu 20.04.5 LTS, allowing me to have all the pros of i3wm
 
 I followed [this guide](https://github.com/heckelson/i3-and-kde-plasma) by heckleson to set it up.
 
-In addition some custom scripts were added, for quality of life improvements:
+Some custom scripts were added, for quality of life improvements:
 
 1. [Autotiling](https://github.com/nwg-piotr/autotiling) by Piotr Miller
 2. [Terminal swallowing](https://gist.github.com/windwp/b46e8bdeac793867b34d2191e66a6f44) by windwp
