@@ -14,7 +14,7 @@
 # this led to some awkward keybindings to not make it in conflict with other software,
 # i.e. fullscreen has been mapped as "Ctrl+Alt+f" because otherwise search functions wouldn't work
 # in the end, the drawbacks are less than the pros, so i'm sticking with that for now
-# Squar3wave, 21/09/2022
+# 21/09/2022
 
 #nothing too fancy, just transparency rules, blur and fades, with the idea of always being able to see my wallpapers
 exec picom --config .config/picom.conf
